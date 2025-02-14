@@ -137,7 +137,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     justify-content: center;
-    background:rgba(0, 0, 0, 0.4) url(/images/love.jpeg) no-repeat;
+    background:rgba(0, 0, 0, 0.4) url(love.jpeg) no-repeat;
     background-blend-mode: darken;
     background-size: cover;
     background-position: center;
@@ -179,7 +179,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     justify-content: center;
-    background:rgba(0, 0, 0, 0.5) url(/bg2.jpg) no-repeat;
+    background:rgba(0, 0, 0, 0.5) url(bg2.jpg) no-repeat;
     background-blend-mode: darken;
     background-size: cover;
     background-position: center;

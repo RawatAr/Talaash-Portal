@@ -1,6 +1,7 @@
 # Talaash Portal
 
 **Talaash Portal** is a platform dedicated to reuniting missing individuals with their families through police assistance. It leverages a nationwide network, real-time updates, and verified reports to streamline the search process, offering hope and support to those in need.
+LINK: https://talaash-portal.vercel.app/
 
 ## **Table of Contents**
 - About
